@@ -1,0 +1,21 @@
+{
+  "name": "hackathon_paris_1",
+  "version": "1.0.0",
+  "description": "hackathon_paris_1",
+  "main": "index.js",
+  "repository": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "lame": "^1.2.4",
+    "libao": "0.0.4",
+    "request": "^2.83.0",
+    "rocketchat": "^0.57.3-alpha",
+    "youtube-audio-stream": "0.0.50",
+    "youtube-node": "^1.3.2"
+  }
+}
